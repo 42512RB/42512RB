@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Radhika Bansal
 - 👀 I’m interested in Designing and Front-End Development.
-- 🌱 I’m currently learning Graphic Designing & UI/UX Designing.
+- 🌱 I’m currently working on .NET Framework.
 
 
 
