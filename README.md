@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Radhika Bansal
 - 👀 I’m interested in Designing and Front-End Development.
-- 🌱 I’m currently working on .NET Framework.
+- 🌱 I’m currently working on NodeJS and AWS Serverless Architecture.
 
 
 
